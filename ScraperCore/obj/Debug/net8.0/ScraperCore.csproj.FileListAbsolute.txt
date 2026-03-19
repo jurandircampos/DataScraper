@@ -10,3 +10,6 @@ C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.dll
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\refint\ScraperCore.dll
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.pdb
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ref\ScraperCore.dll
+C:\Users\juran\Desktop\DataScraper\ScraperCore\bin\Debug\net8.0\ScraperCore.runtimeconfig.json
+C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.csproj.AssemblyReference.cache
+C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.genruntimeconfig.cache

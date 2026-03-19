@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScraperCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ac1db94df4659f8d67990807ed84c972f4dac5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fa54da0828d541500d0e12708814a37fc3da4cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScraperCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScraperCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
