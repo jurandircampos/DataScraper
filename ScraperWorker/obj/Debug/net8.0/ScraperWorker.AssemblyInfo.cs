@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScraperWorker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9dd7441da679aeea26757e1445840f8afc98ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6d15ad718928a3c1d04bf213a8127f58150ecea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScraperWorker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScraperWorker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
