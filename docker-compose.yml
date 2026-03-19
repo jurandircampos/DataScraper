@@ -1,0 +1,32 @@
+services:
+  scraper-worker:
+    build:
+      context: .
+      dockerfile: ScraperWorker/Dockerfile
+    container_name: data_scraper_worker
+    environment:
+      - DatabasePath=/app/data/scraper.db
+      - ScraperSettings__IntervalInMinutes=2
+    volumes:
+      - shared_data:/app/data
+    restart: unless-stopped
+
+  scraper-api:
+    build:
+      context: .
+      dockerfile: ScraperApi/Dockerfile
+    container_name: data_scraper_api
+    ports:
+      - "8081:8080"
+    environment:
+      - DatabasePath=/app/data/scraper.db
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ASPNETCORE_ENVIRONMENT=Production
+    volumes:
+      - shared_data:/app/data
+    depends_on:
+      - scraper-worker
+    restart: unless-stopped
+
+volumes:
+  shared_data:

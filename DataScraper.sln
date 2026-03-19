@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScraperCore", "ScraperCore\ScraperCore.csproj", "{C36B294D-F53C-4D4B-964A-444B0B3156BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScraperApi", "ScraperApi\ScraperApi.csproj", "{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{C36B294D-F53C-4D4B-964A-444B0B3156BD}.Release|x64.Build.0 = Release|Any CPU
 		{C36B294D-F53C-4D4B-964A-444B0B3156BD}.Release|x86.ActiveCfg = Release|Any CPU
 		{C36B294D-F53C-4D4B-964A-444B0B3156BD}.Release|x86.Build.0 = Release|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Debug|x64.Build.0 = Debug|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Debug|x86.Build.0 = Debug|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Release|x64.ActiveCfg = Release|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Release|x64.Build.0 = Release|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Release|x86.ActiveCfg = Release|Any CPU
+		{B6C2DEBC-502B-40E6-8A2F-37E1724CB02B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
