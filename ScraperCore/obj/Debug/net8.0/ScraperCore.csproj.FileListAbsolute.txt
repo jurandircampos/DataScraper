@@ -1,6 +1,8 @@
 C:\Users\juran\Desktop\DataScraper\ScraperCore\bin\Debug\net8.0\ScraperCore.deps.json
+C:\Users\juran\Desktop\DataScraper\ScraperCore\bin\Debug\net8.0\ScraperCore.runtimeconfig.json
 C:\Users\juran\Desktop\DataScraper\ScraperCore\bin\Debug\net8.0\ScraperCore.dll
 C:\Users\juran\Desktop\DataScraper\ScraperCore\bin\Debug\net8.0\ScraperCore.pdb
+C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.csproj.AssemblyReference.cache
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.AssemblyInfoInputs.cache
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.AssemblyInfo.cs
@@ -9,7 +11,5 @@ C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.sour
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.dll
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\refint\ScraperCore.dll
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.pdb
-C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ref\ScraperCore.dll
-C:\Users\juran\Desktop\DataScraper\ScraperCore\bin\Debug\net8.0\ScraperCore.runtimeconfig.json
-C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.csproj.AssemblyReference.cache
 C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ScraperCore.genruntimeconfig.cache
+C:\Users\juran\Desktop\DataScraper\ScraperCore\obj\Debug\net8.0\ref\ScraperCore.dll
